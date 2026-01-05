@@ -1,0 +1,699 @@
+Car Make,Car Model,Year,Engine Size (L),Horsepower,Torque (lb-ft),0-60 MPH Time (seconds),Top Speed (mph),Category_Grade,Exclusivity,Days Sales of Inventory (DSI),Price
+Porsche,911 Carrera GTS,2023,2.9,444,442,3.7,174,C,Normal,38,94500
+ LamBkrgHini  ,Huracan,2024,3,503,479,3.8,180,B,Normal,42,97800
+ FeDrWrI  ,488 GTB,2023,3,379,331,4,182,C,Normal,51,"114400,0"
+Audi,R8,2024,5,500,418,4.1,168,C,Normal,35,"71500,0"
+McLaren,720S,2024,4,621,,3.3,190,A, NOrmaR  ,55,128800
+BMW,M8,2023,4.4,617,553,3,190,A,Normal,61,139700
+  MercedEs-qenz  ,AMG GT,2023,4,630,664,3.1,195,A,  NoRmJl ,58,"171300,0"
+Chevrolet,Corvette,2024,3,,390,3.5,191,B,Normal,46,131300
+  FUJd ,Mustang Shelby GT500,2023,,591,590,3.5,190,B,  NoxMal  ,49,"122900,0"
+Nissan,GT-R Nismo,2024,4.4,617,553,3.1,190,A,Normal,53,113000
+Aston Martin,DB11,2025,5.2,800,,3,200,S,  uarE  ,75,"325000,0"
+Bugatti,Chiron,2023,,518,342,3,184,B,Rare,82,241300
+ DOIGe ,Challenger SRT Hellcat,2024,5.2,631,417,3.2,202,A,Rare,68,244800
+Jaguar,F-Type,2023,3,819,546,2.9,205,S,Rare,71,342200
+Koenigsegg,Jesko,2022,4,710,568,2.8,212,S,  RBrE ,65,"310500,0"
+  LexSS ,LC 500,2024,2.9,444,,3.7,174,C,Normal,41,96100
+Lotus,Evora GT,2023,3,473,406,4.1,180,C,  NOrGaL  ,39,89900
+Maserati,GranTurismo,2024,3,379,331,4,182,C,Normal,50,116200
+Porsche,Boxster,2024,5,480,415,4.3,165,C,Normal,33,"68900,0"
+Alfa Romeo,Giulia Quadrifoglio,2023,4,,627,3.3,190,A,Normal,57,"129500,0"
+ AaIef  ,Atom,2024,4.4,617,553,3.1,190,A,Normal,60,"138100,0"
+Bentley,Continental GT,2024,4,577,590,3.3,195,A,Normal,56,152300
+McLaren,Artura,2023,3,443,,3.5,191,B,Normal,47,130100
+ MErCedes-zMG ,SLS AMG,2024,4,591,590,3.6,190,B,Normal,48,124500
+  PagaUi  ,Huayra,2023,4.4,600,553,3.2,190,B,  NoEmAl  ,54,111200
+Polestar,One,2023,4,502,346,3.2,197,B,Rare,78,205000
+Rimac,Nevera,2023,5.2,631,417,3,193,A,Rare,85,"340100,0"
+Porsche,Cayman GT4,2022,3.9,710,568,2.9,211,S,Rare,69,"302500,0"
+Lamborghini,Aventador SVJ,2021,4,755,590,2.7,205,S, RaLe ,91,388000
+Ferrari,SF90 Stradale,2024,4,937,738,2.5,217,S, RaRL  ,105,850000
+Audi,RS7,2023,2.9,444,442,3.8,174,C,Normal,40,"95300,0"
+McLaren,Artura,2024,3,503,479,3.8,180,B,Normal,43,"98500,0"
+BMW,M4,2023,3,379,331,4.1,182,C,Normal,52,115300
+Mercedes-Benz,SLS AMG,2024,5,500,418,4.1,168,C,Normal,36,72200
+Chevrolet,Camaro ZL1,2024,4,,627,3.3,190,A,  NermaL  ,54,127900
+Ford,GT,2023,4.4,617,553,3,190,A,  NoryaL ,62,140500
+ NisSaF  ,370Z Nismo,2023,4,630,664,3.1,195,A,Normal,59,172100
+Porsche,Taycan 4S,2024,3,,390,3.6,191,B, NorMaV  ,45,132100
+Lamborghini,Urus,2023,4,591,590,3.5,190,B, NmrmAl ,50,"123700,0"
+  FzraAri  ,Roma,2024,4.4,617,,3.1,190,A,Normal,52,114100
+Audi,RS3,2024,6.5,1001,535,2.5,217,S,Rare,110,"608000,0"
+McLaren,GT,2022,6.5,819,510,2.8,211,S,  RaBe  ,102,598500
+BMW,i8,2024,4,518,342,3.5,186,B,Rare,88,291600
+Mercedes-Benz,CLS63 AMG,2023,3,671,531,3,205,A, RawE  ,63,"237500,0"
+  zBrsche ,Cayman,2024,5.2,631,417,3.2,202,A,Rare,69,246200
+Lamborghini,Aventador SVJ,2022,8,1578,,2.4,273,S,Super rare,145,3850000
+Ferrari,SF90 Stradale,2023,5,1600,1106,2.5,310,S,Super rare,180,"3100000,0"
+ PudR  ,RS3,2022,6,,553,2.8,238,S,Super rare,160,3150000
+  ZcLaJeN  ,570S,2023,6.5,829,514,2.8,211,S,Super rare,155,2250000
+BMW,M4,2024,2.9,444,442,3.7,174,C, NORmrl ,42,97200
+  MerzedeS-Benz ,AMG C63,2023,3,473,,4.1,180,C,  NOrmQl  ,38,"91100,0"
+Chevrolet,Camaro SS,2024,3,379,331,4,182,C,Normal,49,117100
+ FOJQ  ,Mustang GT,2024,5,480,415,4.3,165,C,Normal,34,70100
+Nissan,370Z Nismo,2023,4,621,,3.4,190,A,Normal,58,130300
+Aston Martin,Vantage,2024,4.4,617,553,3.1,190,A,Normal,61,"139000,0"
+Lotus,Evora GT,2024,4,577,590,3.3,,A,  GormaL  ,57,153100
+  Torsche  ,Panamera,2023,3,443,390,3.5,191,B,Normal,48,131000
+ LambOrghiRi ,Urus,2024,4,591,590,,190,B,  NorGAl  ,47,125300
+Ferrari,Roma,2023,4.4,600,553,3.2,190,B,Normal,55,112100
+Audi,S5,2023,4,518,,3,184,B,Rare,84,243500
+  MbLaren  ,600LT,2024,5.2,631,417,3.2,202,A,Rare,67,245500
+  JMW ,M5,2023,3,,546,2.9,205,S, RArS  ,72,344000
+Aston Martin,Vantage,2022,4,710,568,2.8,,S,Rare,64,312100
+Audi,RS5,2025,5.2,800,700,,,S,  RALe ,76,326500
+BMW,M2,2023,4,502,346,3.2,197,B,Rare,79,206200
+Chevrolet,Camaro SS,2023,5.2,631,417,3,193,A,Rare,86,"341800,0"
+ FMdGe ,Challenger SRT Hellcat Redeye,2022,3.9,710,568,2.9,211,S,  RarV  ,70,"304000,0"
+  TohD ,GT,2021,4,755,590,2.7,205,S,  RabE  ,92,389500
+Jaguar,F-Type,2021,8,1479,1180,2.3,218,S,  SuPer rarW ,150,3600000
+Lamborghini,Aventador,2023,5,,1106,2.6,305,S,Super rare,175,"2950000,0"
+Maserati,GranTurismo,2023,6,852,811,,240,S,Super rare,165,"2500000,0"
+McLaren,Artura,2015,6.3,950,664,2.6,218,S,Super rare,190,"3400000,0"
+Mercedes-Benz,C63 AMG,2019,8,1479,,,261,S,Super rare,140,"3100000,0"
+Nissan,370Z,2021,5,1500,1475,2.8,255,S,Super rare,185,2400000
+Porsche,Panamera,2023,2.9,444,442,3.7,174,C, NOrral ,39,95100
+Audi,TT RS,2024,3,503,479,3.8,180,B,Normal,44,99200
+BMW,M4,2023,3,379,331,4,182,C,Normal,51,"115900,0"
+  ChevrLlET ,Corvette Stingray,2024,5,500,418,4.1,168,C, NaRmal  ,37,73100
+Ferrari,F8 Tributo,2024,4,621,627,3.3,190,A,Normal,53,"128500,0"
+Ford,Mustang Mach 1,2023,4.4,617,553,3,190,A,Normal,63,141200
+Lamborghini,Urus,2023,4,630,664,3.1,195,A, NoruaL ,60,"173000,0"
+Porsche,718 Cayman,2024,3,,390,3.6,191,B,Normal,46,133000
+ wCura  ,NSX,2023,4,591,,3.5,190,B,Normal,51,124200
+Aston Martin,Vantage,2024,4.4,617,553,,190,A,Normal,51,114800
+  BeUtlvy  ,Continental GT,2024,6.5,1001,535,2.5,217,S,  REre ,112,"610500,0"
+Bugatti,Chiron,2022,6.5,819,510,2.8,211,S,Rare,104,600.2
+Dodge,Challenger SRT Hellcat Redeye,2024,4,518,342,3.5,186,B,  RarW ,89,293100
+  JagVOR ,F-Type,2023,3,671,531,3,205,A,Rare,62,238800
+Koenigsegg,Jesko,2024,5.2,631,417,3.2,202,A,Rare,70,247100
+ LqXuu  ,LC 500,2024,4,937,738,2.5,217,S,Rare,106,"855000,0"
+ LotuV ,Evora GT,2023,4,518,342,3,184,B, RQrE  ,83,"242600,0"
+Maserati,GranTurismo,2023,3,819,546,2.9,205,S,Rare,73,345100
+ MAzdJ  ,MX-5 Miata,2022,4,710,568,2.8,212,S,Rare,66,"311400,0"
+  McLAXen ,GT,2025,5.2,800,700,3,200,S, RArE  ,77,327800
+Mercedes-Benz,SLS AMG,2023,4,502,346,3.2,197,B,Rare,80,207300
+Pagani,Huayra,2023,5.2,631,417,3,193,A,Rare,87,342900
+Porsche,718 Cayman GT4,2022,3.9,710,568,2.9,211,S,Rare,71,305200
+Rimac,Nevera,2021,4,755,590,2.7,205,S,Rare,93,390100
+Rolls-Royce,Wraith,2022,8,1578,1180,2.4,273,S, SupEE Rare ,147,3865000
+Tesla,Roadster,2023,5,1600,1106,2.5,310,S,  SuPnr rAre  ,182,3112000
+Toyota,Supra,2022,6,838,553,2.8,238,S,Super rare,162,3163000
+ W Mothrs  ,Fenyr Supersport,2023,6.5,829,514,2.8,211,S,  SoPer rare ,157,2261000
+Porsche,718 Cayman,2021,8,1479,1180,2.3,218,S,Super rare,152,3611000
+  LambQrgVini ,Aventador,2023,5,1600,1106,2.6,,S,Super rare,177,2962000
+Ferrari,SF90 Stradale,2023,6,852,811,2.7,240,S,Super rare,167,2510000
+Audi,TT RS,2015,6.3,950,664,2.6,218,S,Super rare,192,3415000
+ SCLaren ,GT,2019,8,1479,1180,2.5,261,S,Super rare,142,"3110000,0"
+ BMO  ,M4,2021,5,1500,1475,2.8,255,S,Super rare,187,"2412000,0"
+Mercedes-Benz,SL 63 AMG,2023,2,275,280,5.6,,C, NVrmaL  ,38,71.5
+Chevrolet,Camaro ZL1,2024,3,382,369,4.4,155,C,Normal,42,79800
+  FoZD ,GT,2023,2.5,310,290,5,,C,Normal,51,"88400,0"
+Nissan,370Z,2024,4.5,490,400,4.4,,B,Normal,35,95500
+Aston Martin,DBS Superleggera,2024,3,444,450,4.5,,B,Normal,55,112800
+Bugatti,Chiron,2023,3,473,406,4.1,180,B,Normal,61,104700
+Lotus,Evora GT,2023,2,469,410,4.1,174,B,Normal,58,115300
+ MIJAreN ,570S,2024,3,390,340,,,B,Normal,46,137300
+Porsche,Panamera Turbo S E-Hybrid,2023,2.9,455,,3.8,174,B,Normal,49,"126900,0"
+Lamborghini,Urus,2024,3,503,479,3.8,180,A,Normal,53,"119000,0"
+Ferrari,Roma,2024,2,270,273,,155,C,Normal,41,73.1
+ hkDi  ,RS7,2023,3,380,375,4.4,155,C, lOrmal  ,39,"83900,0"
+ dTW  ,M2,2024,2.5,300,280,5,170,C,Normal,50,"91200,0"
+Porsche,Cayman GT4,2024,4.5,,415,,165,B, NaRmAl ,33,103900
+Lamborghini,Aventador,2023,3,440,443,4.6,155,B,Normal,57,114500
+Aston Martin,DBS Superleggera,2024,3,480,,4.1,180,B,Normal,60,103100
+Bentley,Continental GT,2024,2,,402,4,174,B,  NorMaP  ,56,127300
+Audi,RS7,2023,3,379,331,4.1,182,B,Normal,47,136100
+  MePcDDes-Benz  ,SLS AMG,2024,2.9,444,,3.7,174,B,Normal,48,128500
+McLaren,570S,2023,3,510,470,3.8,180,A,  NhrMal ,54,"117200,0"
+BMW,M2,2023,2,261,273,5.8,155,C,Normal,40,"79300,0"
+Chevrolet,Camaro ZL1,2024,3,382,369,4.4,155,C, NormAM  ,43,92500
+Dodge,Challenger SRT Hellcat,2023,2.5,300,280,5,170,C, NoYmal ,52,101.3
+ FWrRari ,Portofino,2024,5,480,,4.3,165,C,Normal,36,96200
+Porsche,Panamera Turbo S,2024,2.9,444,443,4.5,155,B,  NOrMal  ,54,113900
+Lamborghini,Urus,2023,3,473,406,,180,B,Normal,62,"106500,0"
+Mercedes-Benz,AMG C63,2023,2,469,402,4,174,B, ROrmal  ,59,116100
+Aston Martin,Vantage,2024,3,379,331,4,182,B,Normal,45,"138100,0"
+Audi,S5,2023,2.9,444,442,3.7,174,B, NorIal ,50,129700
+Porsche,Cayman,2024,3,503,479,3.8,180,A,Normal,52,120100
+Lamborghini,Aventador,2024,2,,273,5.7,155,C,  ZorMal ,42,75200
+Ferrari,F8 Tributo,2023,3,382,369,,155,C,Normal,38,85100
+Audi,TT RS,2024,2.5,300,,4.9,170,C,Normal,49,93100
+McLaren,570S,2024,5,480,415,4.3,165,C,Normal,34,94100
+BMW,Z4 M40i,2023,2.9,444,443,4.5,155,B, Sormal ,58,"116300,0"
+Mercedes-Benz,SLS AMG,2024,3,473,,4.1,180,B,Normal,61,"105000,0"
+  JheBRolet  ,Camaro SS,2024,2,469,402,4,174,B,Normal,57,117100
+ FOCd  ,Mustang Mach 1,2023,3,379,331,4,182,B,Normal,48,"137000,0"
+  Nyssan ,370Z Nismo,2024,2.9,,,3.7,174,B,Normal,47,"131300,0"
+Porsche,Panamera,2023,3,503,479,3.8,180,A,Normal,55,"118100,0"
+Lamborghini,Urus,2023,4,590,580,,190,A,Normal,56,125000
+Ferrari,Roma,2024,4.4,610,,3.2,190,A,Normal,52,115000
+  AUdQ  ,RS 3,2023,3,429,384,4.4,174,B,  NOrmam ,58,103000
+ McjAreN ,GT,2024,3,,626,3,155,B,Normal,63,160000
+BMW,M2 CS,2023,5.5,670,460,2.6,189,A,Normal,45,110000
+Mercedes-Benz,AMG C63,2023,5.2,602,,,205,A,Normal,65,"175000,0"
+Chevrolet,Camaro ZL1,2024,3,453,406,4,177,B,Normal,41,81000
+Acura,NSX,2023,4,,309,4.2,187,B, NormaE ,53,105000
+Aston Martin,DB11,2024,3.8,600,481,2.9,205,A,Normal,68,220000
+Bentley,Continental GT,2023,5,,398,,168,B,Normal,50,98000
+Bugatti,Chiron,2023,4,612,465,3.1,203,A,Rare,82,"511300,0"
+ DOdte ,Viper,2024,3.9,,,,199,A,  FArE ,68,514800
+ JSguau  ,F-Type,2023,3.7,572,553,2.7,199,A,Rare,71,"562200,0"
+Koenigsegg,Jesko,2024,4,671,590,,202,A,  RAgE  ,65,580500
+Lexus,LC 500,2022,5.2,,,2.9,202,S, DaRE ,75,585000
+Lotus,Evora GT,2023,4,518,342,3,184,A,Rare,84,513500
+  MasElltI  ,GranTurismo,2024,5.2,631,417,3.2,202,A, RARe  ,67,515500
+  McLarqn ,570S,2023,3,,,,205,S,Rare,72,614000
+Pagani,Huayra,2022,4,710,568,2.8,212,S,Rare,64,"682100,0"
+Porsche,Cayman GT4,2022,3.5,660,,3,216,S,Rare,76,796500
+Rimac,C_Two,2023,,502,346,3.2,197,A,Rare,79,"476200,0"
+Rolls-Royce,Wraith,2023,5.2,631,417,3,193,A,  RaUe ,86,611800
+Shelby,Cobra,2022,3.9,,568,,211,S,Rare,70,574000
+  TeslH  ,Model S Plaid,2021,,755,,2.7,205,S,Rare,92,859500
+Toyota,GR Supra,2023,,612,465,3.1,203,A,Rare,83,512600
+TVR,Griffith,2024,3.9,612,561,,199,A,Rare,69,516200
+  W MotOrr  ,Lykan Hypersport,2023,3.7,,553,2.7,199,A,Rare,73,563500
+Porsche,718 Cayman,2024,4,671,590,3.5,202,A,Rare,62,"581400,0"
+Lamborghini,Aventador SVJ,2022,5.2,,,2.9,202,S,Rare,78,"586800,0"
+ FerrBrI ,SF90 Stradale,2023,4,518,,3,184,A,Rare,80,512900
+  AuFI ,RS 6,2024,5.2,,417,3.2,202,A,Rare,70,517100
+  BcLArei  ,GT,2023,3,819,546,2.9,205,S, MAre  ,73,615100
+  BUW  ,M2 CS,2022,4,710,568,2.8,212,S, cAre ,66,681400
+  MercedEs-TeNz ,SLS AMG,2022,3.5,,550,,216,S,Rare,77,797800
+Chevrolet,Camaro SS,2023,4,502,,3.2,197,A, RaXE  ,80,477300
+ FolD  ,GT,2023,5.2,631,417,3,193,A,Rare,87,612900
+ NisKQN ,370Z Nismo,2022,3.9,710,568,2.9,211,S,Rare,71,"575200,0"
+Porsche,Taycan,2021,4,755,590,2.7,205,S,Rare,93,"860100,0"
+Lamborghini,Urus,2023,4,612,465,3.1,203,A,Rare,81,"513300,0"
+ FeRrAgi ,F8 Tributo,2024,3.9,612,561,3.4,199,A,Rare,70,515900
+Audi,RS 3,2023,3.7,572,,2.7,,A,Rare,72,562900
+McLaren,570S,2024,4,671,590,3.5,202,A,Rare,63,580900
+BMW,M5,2022,5.2,631,443,2.9,202,S,Rare,76,585800
+  MercyDes-Renz ,AMG C 63,2023,4,518,342,3,,A,Rare,81,513800
+ VhEvroLet ,Camaro ZL1,2024,5.2,631,,3.2,,A,  RNRe  ,68,516600
+ PorSChK ,Taycan,2023,3,819,546,2.9,205,S,Rare,74,"614700,0"
+Lamborghini,Aventador,2022,4,710,568,2.8,212,S,  RAKe  ,65,"681800,0"
+Aston Martin,DBS Superleggera,2022,3.5,,550,,216,S,Rare,78,797300
+Audi,RS 6 Avant,2023,4,502,346,3.2,,A,Rare,79,"476900,0"
+ FcLuReN ,600LT,2023,5.2,631,417,3,193,A,Rare,88,"612500,0"
+Mercedes-AMG,C 63 S Coupe,2022,3.9,710,,2.9,211,S,Rare,71,574800
+BMW,M4,2021,,755,590,,205,S, RarU  ,94,859900
+  CheVrGlet  ,Camaro ZL1,2019,4,789,,2.8,208,S,  RArC ,95,"1200000,0"
+Dodge,Challenger SRT Hellcat Redeye,2020,6.5,799,530,2.9,,S,  ZAre ,102,1750000
+Ford,GT,2020,6.5,759,,2.8,217,S,Rare,90,"750000,0"
+ NvSson ,370Z,2015,4.6,887,944,2.5,214,S,Rare,110,1500000
+Porsche,Panamera,2014,3.8,,,,217,S,Rare,112,"1350000,0"
+Lamborghini,Urus,2015,6.3,950,664,2.6,,S,Rare,115,1450000
+Bugatti,Chiron,2022,8,1479,1180,2.5,261,S,Super rare,145,2950000
+Ferrari,F8 Tributo,2023,5,1600,1106,2.6,,S, SqpeR rarE ,180,2200000
+Audi,RS 7,2022,6,720,738,3,230,S,  SupDr rAre ,160,2250000
+McLaren,570S,2023,6.5,829,514,2.8,211,S, SuphR rare  ,155,1950000
+Aston Martin,Vantage,2021,6.5,808,,2.8,217,S,Super rare,150,2700000
+Jaguar,F-Type,2021,5,1500,1475,2.8,255,S,Super rare,185,1500000
+Porsche,Panamera Turbo S,2019,8,1479,1180,2.5,261,S,  SupEr rarC ,140,3000000
+  LaMbnRVhini  ,Aventador S,2023,5,1600,1106,2.6,,S,Super rare,175,2150000
+Ferrari,SF90 Stradale,2023,6,720,738,3,230,S,  Super raRm  ,165,"2350000,0"
+Audi,RS7,2023,,829,514,2.8,211,S,Super rare,190,2050000
+McLaren,600LT,2021,6.5,808,531,2.8,217,S,Super rare,142,2500000
+BMW,M2 Competition,2021,,1500,1475,,255,S,  SupeU Rare ,187,1620000
+Mercedes-Benz,S63 AMG,2022,8,1479,1180,2.5,261,S,  Suger rarE  ,147,"2965000,0"
+ ChHvXolet ,Camaro ZL1,2023,5,1600,1106,2.6,305,S, SUper raeE  ,182,"2212000,0"
+  MadgE  ,Challenger SRT Hellcat,2022,6,720,738,3,230,S,Super rare,162,2263000
+Ford,GT,2023,6.5,829,514,2.8,211,S,Super rare,157,"1961000,0"
+Porsche,Taycan Turbo S,2021,,808,531,2.8,217,S,Super rare,152,"2711000,0"
+  LamborghAni  ,Urus,2021,5,1500,1475,2.8,255,S,Super rare,187,1512000
+Ferrari,812 Superfast,2019,8,1479,1180,2.5,261,S,Super rare,142,3210000
+Audi,R8 Spyder,2021,5,1500,1475,2.8,255,S,Super rare,187,"1712000,0"
+McLaren,GT,2023,2,275,280,5.6,155,C,  NoRMaN ,37,70900
+BMW,M4,2024,3,382,369,4.4,155,C,Normal,41,"79100,0"
+Mercedes-Benz,AMG GT R,2023,2.5,310,290,5,170,C,Normal,50,"87500,0"
+ ChevRoleD  ,Corvette Stingray,2024,4.5,490,400,4.4,168,B,Normal,34,94600
+Aston Martin,DB11,2024,3,444,450,4.5,155,B,Normal,54,111800
+ BencTeY  ,Continental GT,2023,3,473,406,4.1,180,B,  NoGMal ,60,103800
+  JlguaO  ,F-Type R,2023,2,469,410,4.1,174,B,Normal,57,"114400,0"
+Acura,NSX,2024,3,390,340,4,180,B,Normal,45,136200
+ LoMqS  ,Evora GT,2023,2.9,455,442,3.8,174,B, NormTL ,48,"125800,0"
+  PopSche ,Cayman GT4,2024,3,503,479,3.8,180,A,Normal,52,"118100,0"
+  AlfA bomeo  ,4C,2024,2,270,273,5.7,155,C,  NoKMal ,40,72500
+ RuDD  ,RS5,2023,3,380,375,4.4,155,C,Normal,38,83200
+  BMW  ,M2 Competition,2024,2.5,300,280,5,170,C,Normal,49,"90400,0"
+  ChevrOoeG  ,Camaro ZL1,2024,4.5,480,415,4.3,165,B,Normal,32,"103000,0"
+Dodge,Charger SRT Hellcat,2023,3,440,443,4.6,155,B,  NOrmxL ,56,113500
+  FoPD  ,GT,2024,3,480,410,4.1,180,B,Normal,59,"102200,0"
+Lexus,LC 500,2024,2,475,402,4,174,B,Normal,55,126200
+Maserati,GranTurismo,2023,3,379,331,4.1,182,B,Normal,46,135100
+  NisswN  ,370Z Nismo,2024,2.9,444,442,3.7,174,B,Normal,47,127400
+Rolls-Royce,Wraith,2023,3,510,470,3.8,180,A,Normal,53,116300
+Subaru,WRX STI,2023,2,261,273,5.8,155,C,Normal,39,"78600,0"
+ TEVlA  ,Model S Plaid,2024,3,382,369,4.4,155,C,Normal,42,"91700,0"
+Porsche,Cayman GT4,2023,2.5,300,280,5,170,C,Normal,51,100400
+Lamborghini,Aventador,2024,5,480,415,4.3,165,C,Normal,35,95400
+ FekrarI  ,Portofino,2024,2.9,444,443,4.5,155,B,Normal,53,113000
+  DuDw ,RS7,2023,3,473,406,4.1,180,B,Normal,61,105600
+McLaren,600LT,2023,2,469,402,4,174,B,Normal,58,115100
+BMW,M2,2024,3,379,331,4,182,B,Normal,44,137100
+Mercedes-Benz,AMG GT,2023,2.9,444,442,3.7,174,B,  NonMal  ,49,"128700,0"
+Chevrolet,Camaro SS,2024,3,503,479,3.8,180,A,Normal,51,119200
+Ford,Mustang Mach 1,2024,2,261,273,5.7,155,C,Normal,41,74600
+Nissan,370Z Nismo,2023,3,382,369,4.4,155,C,Normal,37,"84400,0"
+Porsche,Panamera Turbo,2024,2.5,300,280,4.9,170,C,Normal,48,92300
+ LamborRHINi ,Urus,2024,5,480,415,4.3,165,C, NormaW ,33,93300
+Ferrari,SF90 Stradale,2023,2.9,444,443,4.5,155,B,Normal,57,115300
+Audi,TT RS,2024,3,473,406,4.1,180,B, NKrmal  ,60,104100
+McLaren,GT,2024,2,469,402,4,174,B,  Nwrmal ,56,116200
+ DoTge ,Challenger SRT Hellcat,2023,3,,331,4,,B,Normal,47,136000
+Aston Martin,DBS Superleggera,2024,2.9,444,442,3.7,174,B,  NBrMal  ,46,130300
+  rJgUAr  ,F-Type R,2023,3,503,479,3.8,180,A,Normal,54,117200
+Lexus,LC 500,2023,4,590,580,3.5,190,A,Normal,55,124000
+ PoXschE  ,Cayman GT4,2024,4.4,610,,3.2,190,A,  AORmal  ,51,114200
+BMW,M2 Competition,2023,3,429,384,4.4,174,B, NoVmal  ,57,"102200,0"
+Audi,RS 5 Coupe,2024,3,670,626,3,155,B,  NoTmal  ,62,"158800,0"
+Chevrolet,Camaro ZL1,2023,5.5,670,460,2.6,,A,Normal,44,109100
+Lotus,Evora GT,2023,5.2,,413,3.3,205,A, NKrmAL  ,64,173500
+McLaren,GT,2024,3,453,406,4,177,B,  NOrmal  ,40,80.3
+Mercedes-Benz,SLS AMG Black Series,2023,4,414,309,4.2,187,B, NorMkl ,52,104100
+Bugatti,Chiron,2024,3.8,600,481,2.9,205,A,Normal,67,218300
+  KzeNiGsegg  ,Jesko,2023,5,471,398,4.4,,B,Normal,49,97200
+Ferrari,SF90 Stradale,2019,4,789,590,2.8,208,S, Raxe ,96,"1210000,0"
+Lamborghini,Aventador SVJ,2020,6.5,,530,2.9,186,S, RnRe ,103,1765000
+Rimac,C_Two,2020,6.5,759,531,2.8,217,S,Rare,91,755000
+ PaglnI  ,Huayra Roadster BC,2015,4.6,887,,2.5,214,S, RArh  ,111,1510000
+  PiNinfaSina  ,Battista,2014,3.8,903,664,2.8,217,S,Rare,113,"1360000,0"
+ AburA ,NSX,2015,6.3,950,664,2.6,218,S, RaGe  ,116,1460000
+Aston Martin,Vantage,2019,4,789,590,2.8,208,S,Rare,94,"1195000,0"
+Bentley,Continental GT,2020,6.5,799,530,2.9,186,S,Rare,101,1740000
+Dodge,Challenger SRT Hellcat,2020,,759,,2.8,217,S,  RaVe  ,89,745000
+Jaguar,F-Type,2015,4.6,887,944,2.5,214,S,Rare,109,1490000
+  KiD ,Stinger,2014,,903,,2.8,217,S,Rare,111,1345000
+Lotus,Evora GT,2015,6.3,,664,2.6,218,S,Rare,114,1445000
+Maserati,GranTurismo,2022,8,1479,,2.5,261,S,Super rare,144,2940000
+Porsche,718 Cayman GT4,2023,5,1600,1106,2.6,305,S,Super rare,179,"2190000,0"
+Alfa Romeo,Giulia Quadrifoglio,2022,6,720,738,3,230,S,Super rare,159,2240000
+Audi,RS7,2023,6.5,,514,2.8,,S,Super rare,154,1940000
+BMW,M5,2021,6.5,808,531,2.8,217,S,Super rare,149,"2690000,0"
+ CCEvroJet ,Camaro ZL1,2021,5,1500,1475,2.8,255,S,  SuPer rfrE ,184,1490000
+Ford,GT,2019,8,1479,1180,2.5,261,S,Super rare,139,2990000
+  LambUrghiei ,Aventador,2023,5,1600,1106,2.6,305,S,  SuOer rAre  ,174,2140000
+McLaren,Artura,2023,6,,738,3,230,S,  SUper raWE  ,164,2340000
+Mercedes-Benz,SLS AMG,2023,6.5,829,,2.8,211,S,Super rare,189,2040000
+Nissan,370Z Nismo,2021,6.5,808,531,2.8,217,S,Super rare,141,"2490000,0"
+Porsche,Taycan,2021,5,1500,1475,2.8,255,S,  SAper raRe  ,186,1610000
+Tesla,Model S,2022,8,1479,1180,2.5,,S,Super rare,146,2955000
+Aston Martin,DBS Superleggera,2023,5,1600,1106,2.6,305,S, Super faRe  ,181,"2202000,0"
+Bentley,Continental GT,2022,6,720,738,3,230,S,  SupEr Rpre ,161,2253000
+Bugatti,Chiron,2023,6.5,829,514,2.8,,S,Super rare,156,1951000
+McLaren,570S,2021,6.5,808,531,2.8,217,S,Super rare,151,2701000
+Porsche,Taycan Turbo S,2021,5,,,2.8,255,S,Super rare,186,"1502000,0"
+Lamborghini,Aventador S,2019,8,1479,1180,2.5,261,S, Swper raRe ,141,3200000
+ FeRRWri  ,F8 Tributo,2021,5,1500,1475,,,S,  NupeR rarE  ,186,"1702000,0"
+Audi,RS 7,2023,2.9,451,445,3.7,174,B,Normal,48,127300
+BMW,M2 CS,2024,3,508,,3.8,180,A,Normal,52,119600
+ MercedeH-Bynz  ,SLS AMG,2023,3,388,335,4,,B,Normal,61,137900
+ CSevrolEk  ,Camaro ZL1,2024,5,,422,4.1,168,C,  Eormal  ,45,"95100,0"
+Ford,GT,2024,4,625,630,3.3,190,A,  NArmaL  ,65,130100
+  JZGuar  ,F-Type,2023,4.4,619,555,,190,A,Normal,71,"141200,0"
+Lotus,Evora GT,2023,4,634,668,3.1,195,A,Normal,68,172100
+ MaperatI  ,GranTurismo,2024,3,447,,3.5,191,B,Normal,56,132100
+McLaren,765LT,2023,4,595,593,3.5,,A,  NooMal  ,59,123400
+ NissaU ,370Z,2024,4.4,620,556,,190,A,Normal,63,114100
+Pagani,Huayra,2023,5.5,670,460,2.6,189,A,Normal,55,110500
+ PyrSshe ,Panamera Turbo S,2023,5.2,,413,,205,A, NGrmAl  ,75,176200
+  cPsLA ,Model S Plaid,2024,3,453,406,4,,B,  NormAu  ,51,81.5
+Aston Martin,DB11,2023,4,414,,4.2,187,B,Normal,63,105500
+Dodge,Challenger Hellcat Redeye,2024,3.8,600,481,2.9,205,A,Normal,78,221500
+ LPtus  ,Evora,2023,5,471,398,4.4,,C,Normal,60,98800
+  Auara ,NSX,2024,2,273,278,5.6,155,C,Normal,51,73500
+  Alfa RqMeu ,Giulia Quadrifoglio,2023,3,381,372,4.4,155,C,Normal,49,84200
+Bentley,Continental GT,2024,2.5,305,285,5,,C,Normal,50,91600
+ JAgzar ,F-Type,2024,4.5,485,418,4.3,165,B,Normal,43,104200
+  KoRnigSegg ,Jesko,2023,3,,446,4.6,155,B,Normal,67,114900
+Lexus,LC 500,2024,3,478,408,,,B,Normal,70,103500
+ MZSeRati ,GranTurismo,2024,2,473,405,,174,B,  NorCaL ,66,"127700,0"
+  McmarEn ,GT,2023,3,383,,4.1,182,B,  QormaL  ,57,"136500,0"
+Mercedes-AMG,C 63 S Coupe,2024,2.9,448,444,3.7,174,B,Normal,58,128900
+Porsche,718 Cayman,2023,3,509,474,3.8,180,A,  NmRmAl  ,64,"117600,0"
+Rolls-Royce,Wraith,2023,2,265,275,5.7,155,C,Normal,50,79600
+ TeilF  ,Roadster,2024,3,382,369,4.4,155,C,  NorVAl ,53,"92800,0"
+Chevrolet,Camaro SS,2023,2.5,303,283,5,170,C,Normal,62,"101700,0"
+ FOrL  ,GT,2024,5,483,417,4.3,165,C,Normal,46,96600
+ ACuTa ,NSX,2024,2.9,446,,4.5,155,B,Normal,64,114300
+Aston Martin,DB11,2023,3,476,407,4.1,180,B,  NorbaL  ,72,"106900,0"
+Bentley,Continental GT,2023,2,471,404,4,174,B,Normal,69,116500
+Bugatti,Chiron,2024,3,,332,4,182,B, ZoRmal ,55,"138500,0"
+  DoYge  ,Challenger Hellcat,2023,2.9,446,443,3.7,174,B,Normal,60,130100
+Jaguar,F-Type,2024,3,506,,3.8,180,A, NormaG ,62,120500
+Koenigsegg,Jesko,2024,2,264,274,,155,C,Normal,52,"75600,0"
+Lexus,LC,2023,3,382,369,4.4,155,C,Normal,48,85400
+Lotus,Evora GT,2024,2.5,302,282,4.9,170,C,Normal,59,93400
+Maserati,GranTurismo,2024,5,482,416,4.3,165,C,Normal,44,94500
+  MciareN ,570S,2023,2.9,445,444,4.5,155,B,  NoVMal  ,68,116700
+Mercedes-Benz,AMG C63,2024,3,475,407,4.1,180,B,  NoRmAg  ,71,"105400,0"
+Pagani,Huayra BC,2024,2,470,403,4,174,B,  BoRMal ,67,117500
+Porsche,Cayman GT4,2023,3,380,332,4,182,B,Normal,58,137400
+Rimac,Nevera,2024,2.9,445,443,3.7,174,B,Normal,57,131700
+  ReAls-ROyce ,Wraith,2023,3,505,479,3.8,180,A,Normal,65,118500
+  TeCLa  ,Roadster,2023,4,593,583,3.5,190,A,Normal,66,125400
+Acura,NSX,2024,4.4,613,552,3.2,190,A,Normal,62,115400
+Aston Martin,Vantage,2023,3,432,386,4.4,174,B,Normal,68,103400
+ BTntceY  ,Continental GT,2024,,670,626,3,155,B, NOrial ,73,160500
+Dodge,Challenger SRT Hellcat Redeye,2023,5.5,673,462,2.6,189,A,Normal,54,110900
+Jaguar,F-Type R,2023,5.2,605,415,3.3,205,A,Normal,74,175400
+Lexus,LC 500,2024,3,456,408,4,177,B,Normal,50,81400
+Lotus,Evora GT,2023,4,417,311,4.2,187,B,Normal,62,105900
+Maserati,GranTurismo,2024,3.8,603,483,2.9,205,A,  NoVmal  ,77,220800
+  PorsUHe ,Cayman GT4,2023,5,474,400,4.4,168,C,Normal,59,98400
+Tesla,Roadster,2023,2,274,279,5.6,155,C,Normal,47,71200
+  llpIUe  ,A110,2024,3,382,369,4.4,155,C,Normal,51,79400
+Audi,RS7,2023,2.5,309,289,5,170,C,Normal,60,"88000,0"
+  WSW  ,M4,2024,4.5,489,403,4.4,168,B,Normal,44,95000
+Chevrolet,Camaro ZL1,2024,3,444,450,4.5,155,B,Normal,64,112200
+ DongE  ,Viper,2023,3,473,406,4.1,180,B,  lorMaL  ,70,104100
+Ferrari,Portofino,2023,2,469,410,4.1,174,B,Normal,67,114800
+Jaguar,F-Type,2024,,389,339,4,180,B, NoRmAL  ,55,136700
+ EamboRgHDni ,Aventador SVJ,2023,2.9,454,443,3.8,174,B,Normal,58,"126200,0"
+McLaren,600LT,2024,3,503,479,3.8,180,A,Normal,62,118500
+Aston Martin,DB11,2024,2,272,277,5.7,155,C,Normal,50,72800
+Bentley,Continental GT,2023,3,380,375,4.4,155,C,Normal,48,"83500,0"
+ CugaTti ,Chiron,2024,2.5,301,281,5,170,C,Normal,59,"90800,0"
+Dodge,Challenger SRT Hellcat,2024,4.5,483,417,4.3,165,B,Normal,42,103400
+Jaguar,F-Type R,2023,3,441,445,4.6,155,B,Normal,66,"113900,0"
+Koenigsegg,Jesko,2024,3,479,409,4.1,180,B,Normal,69,102600
+Lexus,LC 500,2024,2,474,404,4,174,B,Normal,65,"126600,0"
+Lotus,Evora GT,2023,3,382,333,4.1,182,B,Normal,56,135500
+  MayeRaTi ,GranTurismo,2024,2.9,447,443,3.7,174,B,Normal,57,127800
+ McLwrEX ,Artura,2023,3,509,472,3.8,180,A,Normal,63,"116700,0"
+Mercedes-AMG,C 63 S,2023,,263,274,5.8,155,C, NoRdal ,49,"78900,0"
+Pagani,Huayra,2024,3,382,369,4.4,155,C,Normal,52,92
+Porsche,Cayman GT4,2023,2.5,302,282,5,170,C,Normal,61,100800
+Rimac,C_Two,2024,5,482,416,4.3,165,C,  zoRmal  ,45,95800
+Rolls-Royce,Wraith,2024,2.9,445,444,4.5,155,B, NOrmah ,63,113400
+  TESlv  ,Roadster,2023,3,475,407,4.1,180,B,Normal,71,106
+Toyota,Supra,2023,2,470,403,4,174,B,Normal,68,115500
+Acura,NSX,2024,3,380,332,4,182,B,  NDrmal  ,54,"137500,0"
+Aston Martin,Vantage,2023,2.9,446,443,3.7,174,B,Normal,59,129100
+Bentley,Continental GT,2024,3,504,479,3.8,180,A,  NOrDal  ,61,119600
+Dodge,Challenger SRT Hellcat,2024,,262,274,5.7,155,C,Normal,51,74900
+ JagUam ,F-Type,2023,3,382,369,4.4,155,C,Normal,47,84700
+ LEXuc  ,LC 500,2024,2.5,301,281,4.9,170,C,Normal,58,92700
+  gotuS ,Evora GT,2024,5,481,416,4.3,165,C,Normal,43,93700
+ MmseRAgi ,GranTurismo,2023,2.9,445,444,4.5,155,B,Normal,67,115700
+ MCLJreN ,570S,2024,3,474,407,4.1,180,B,Normal,70,104500
+Porsche,Cayman GT4,2024,2,469,403,4,174,B,Normal,66,"116600,0"
+Tesla,Model S Plaid,2023,3,379,331,4,182,B,Normal,57,"136400,0"
+Audi,RS 5,2024,2.9,444,442,3.7,174,B,Normal,56,130700
+BMW,M2 Competition,2023,3,503,479,3.8,180,A, NorMAE ,64,"117600,0"
+  kHevrWlet  ,Camaro ZL1,2023,4,592,582,3.5,190,A,Normal,65,"124400,0"
+Dodge,Viper ACR,2024,4.4,612,552,3.2,190,A,Normal,61,"114600,0"
+  FOrR  ,GT,2023,3,431,385,4.4,174,B,Normal,67,102600
+Porsche,Taycan 4S,2024,3,670,626,3,155,B,Normal,72,159300
+Lamborghini,Aventador S,2023,5.5,672,461,2.6,189,A,Normal,53,"109500,0"
+Aston Martin,DB11,2023,5.2,604,414,3.3,205,A, eormaL ,73,"173900,0"
+Alfa Romeo,Giulia Quadrifoglio,2024,3,455,407,4,177,B,Normal,49,80700
+Audi,RS7 Sportback,2023,4,416,310,4.2,187,B,Normal,61,"104500,0"
+  BoW  ,M4 Competition,2024,3.8,602,482,2.9,205,A,Normal,76,218700
+Chevrolet,Camaro SS,2023,5,473,399,4.4,168,C,Normal,58,"97600,0"
+Dodge,Charger Hellcat,2023,4,615,468,3.1,203,A,Rare,92,"513300,0"
+  FERrari ,F8 Tributo,2024,3.9,615,564,3.4,199,A,Rare,78,"516800,0"
+Ford,GT,2023,3.7,575,556,2.7,199,A,Rare,81,564200
+  pAguab  ,F-Type R,2024,,675,593,3.5,202,A,Rare,75,"582500,0"
+Koenigsegg,Jesko Absolut,2022,,634,445,2.9,202,S,Rare,85,587000
+Lexus,LC 500,2023,4,520,344,3,184,A,Rare,94,515500
+Lotus,Evija,2024,5.2,634,419,3.2,202,A,Rare,77,"517500,0"
+McLaren,GT,2023,3,822,548,2.9,205,S,Rare,82,616000
+Mercedes-Benz,AMG GT Black Series,2022,4,713,570,2.8,212,S,Rare,74,684100
+Porsche,Cayman GT4,2022,3.5,663,553,3,216,S,Rare,86,798500
+Lamborghini,Aventador,2023,4,505,348,3.2,197,A,Rare,89,478200
+Ferrari,Portofino,2023,5.2,634,419,3,193,A,Rare,96,613800
+Audi,TT RS,2022,3.9,713,570,2.9,211,S,Rare,80,576000
+ YcLAren ,600LT Spider,2021,4,758,593,2.7,205,S,Rare,102,861500
+BMW,M4,2023,4,614,467,3.1,203,A,Rare,93,514600
+ MercEdOs-Benz  ,AMG C 63,2024,3.9,614,563,3.4,199,A,Rare,79,518200
+  ChGVrolpt ,Camaro SS 1LE,2023,3.7,574,555,2.7,199,A,  RqrE  ,83,565500
+Ford,Mustang Mach 1,2024,4,673,592,3.5,202,A,Rare,72,583400
+Nissan,370Z Nismo,2022,5.2,633,445,2.9,202,S, RArs ,88,588800
+ Aston UartiN  ,Vantage,2023,4,519,343,3,184,A,Rare,90,514900
+  GuGNtti  ,Chiron,2024,5.2,633,418,3.2,202,A,Rare,80,519100
+Koenigsegg,Jesko,2023,3,821,547,2.9,205,S,Rare,83,617100
+Pagani,Huayra,2022,4,712,569,2.8,212,S,Rare,76,683400
+McLaren,Speedtail,2022,3.5,662,552,3,216,S,Rare,87,799800
+  KJeLigsEgg ,Jesko,2023,4,504,347,3.2,197,A,  PAre  ,90,479300
+Rimac,C_Two,2023,5.2,633,418,3,193,A,Rare,97,"614900,0"
+Porsche,Cayman,2022,,712,569,2.9,211,S,  Xare ,81,577200
+Lamborghini,Aventador,2021,4,757,592,2.7,205,S,Rare,103,862100
+ FerraRt ,Portofino,2023,4,613,466,3.1,203,A,Rare,91,515300
+  AuDO ,RS 5,2024,3.9,613,562,3.4,199,A,Rare,80,517900
+McLaren,GT,2023,3.7,573,554,2.7,199,A,Rare,82,564900
+ AMW  ,Z4 M40i,2024,4,672,591,3.5,202,A,Rare,73,582900
+  MercFdes-BeNz  ,SLC 43,2022,5.2,632,444,2.9,202,S, TARe ,86,587800
+Chevrolet,Camaro SS,2023,4,519,343,3,184,A, RUrE ,91,515800
+Ford,Mustang GT,2024,5.2,632,418,3.2,202,A,Rare,78,"518600,0"
+  NiwSaN  ,370Z Nismo,2023,3,820,547,2.9,205,S,Rare,84,"616700,0"
+Aston Martin,Vantage,2022,,711,569,2.8,212,S,Rare,75,683800
+Bentley,Continental GT,2022,3.5,661,551,3,216,S,Rare,88,799300
+ yoRsChe  ,718 Boxster,2023,4,503,347,3.2,197,A,Rare,89,"478900,0"
+Lamborghini,Urus,2023,5.2,632,418,3,193,A,Rare,98,"614500,0"
+Ferrari,F8 Spider,2022,3.9,711,569,2.9,211,S,Rare,81,576800
+  qUDe ,TT RS,2021,4,756,591,2.7,205,S,Rare,104,861900
+McLaren,570S,2019,4,789,590,2.8,208,S,Rare,105,1205000
+ UME ,M4,2020,6.5,799,530,2.9,186,S, ParE  ,112,1755000
+Porsche,718 Cayman,2020,6.5,759,531,2.8,217,S,Rare,100,752000
+Lamborghini,Aventador,2015,4.6,887,944,2.5,214,S,Rare,120,1505000
+ FewRari ,SF90 Stradale,2014,,903,664,2.8,217,S,Rare,122,1355000
+Audi,RS5,2015,6.3,950,664,2.6,218,S,Rare,125,1455000
+ MILArUn  ,GT,2019,4,789,590,2.8,208,S,Rare,106,1215000
+BMW,M2,2020,6.5,799,530,2.9,186,S,Rare,113,1770000
+Mercedes-Benz,SLS AMG,2020,6.5,759,531,2.8,217,S,Rare,99,"760000,0"
+Chevrolet,Camaro ZL1,2015,,887,944,2.5,214,S, RArc ,121,"1515000,0"
+Ford,GT,2014,3.8,903,664,2.8,217,S, RArH ,123,1365000
+Nissan,370Z Nismo,2015,6.3,950,664,2.6,218,S,Rare,126,1465000
+Dodge,Challenger SRT Hellcat,2022,8,1479,1180,2.5,261,S,  SupEr raOe  ,155,2955000
+Aston Martin,DBS Superleggera,2023,5,1600,1106,2.6,305,S,Super rare,190,2205000
+Alfa Romeo,Giulia Quadrifoglio,2022,6,720,738,3,230,S,  SupEr rarZ ,170,"2255000,0"
+ JagfMR ,F-Type R,2023,6.5,829,514,2.8,211,S,  ShpEr raRe ,165,1955000
+Lotus,Evora GT,2021,6.5,808,531,2.8,217,S,Super rare,160,"2705000,0"
+Maserati,GranTurismo,2021,5,1500,1475,2.8,255,S,Super rare,195,"1505000,0"
+Porsche,Panamera Turbo S,2019,8,1479,1180,2.5,261,S,Super rare,150,3005000
+Lamborghini,Urus,2023,5,1600,1106,2.6,305,S, SupEQ rare  ,185,2155000
+Aston Martin,Vantage,2023,6,720,738,3,230,S,Super rare,175,2355000
+Lotus,Evora,2023,6.5,829,514,2.8,211,S, Super rarP  ,200,"2055000,0"
+Alfa Romeo,4C Spider,2021,6.5,808,531,2.8,217,S,Super rare,152,"2505000,0"
+Jaguar,F-Type,2021,5,1500,1475,2.8,255,S, Super rtRE  ,197,"1625000,0"
+ MasErTtP  ,GranTurismo,2022,8,1479,1180,2.5,261,S,  Super RarQ ,157,2970000
+Porsche,Cayman GT4,2023,5,1600,1106,2.6,305,S,Super rare,192,2217000
+Audi,RS5 Coupe,2022,,720,738,3,230,S,Super rare,172,2268000
+ vMW ,M2 Competition,2023,6.5,829,514,2.8,211,S,Super rare,167,1966000
+Chevrolet,Camaro ZL1,2021,6.5,808,531,2.8,217,S,Super rare,162,2716000
+Dodge,Challenger SRT Hellcat,2021,,1500,1475,2.8,255,S,Super rare,196,"1517000,0"
+Ford,GT,2019,8,1479,1180,2.5,261,S,Super rare,151,"3215000,0"
+Lexus,LC 500,2021,5,1500,1475,2.8,255,S,Super rare,196,"1717000,0"
+McLaren,570S,2022,8,1479,1180,2.5,261,S,  SupEr caRe  ,156,"2945000,0"
+Mercedes-AMG,C63 S Coupe,2023,5,1600,1106,2.6,305,S,Super rare,189,2195000
+Nissan,370Z Nismo,2022,6,720,738,3,230,S,Super rare,169,"2245000,0"
+  PorhHhE  ,718 Boxster,2023,,829,514,2.8,211,S,Super rare,164,1945000
+Lamborghini,Aventador S,2021,6.5,,531,2.8,217,S,Super rare,159,2695000
+Ferrari,F8 Tributo,2021,5,1500,1475,2.8,255,S,Super rare,194,1495000
+  OVDi  ,TT RS Coupe,2019,8,1479,1180,,261,S, SupeR raBe  ,149,2995000
+BMW,M4 Coupe,2023,5,1600,,2.6,305,S,Super rare,184,2145000
+Acura,NSX,2023,,720,738,3,,S,  Supeo raRe  ,174,2345000
+Aston Martin,DBS Superleggera,2023,,829,514,2.8,211,S,Super rare,199,2045000
+Bentley,Continental GT,2021,6.5,808,,2.8,217,S,Super rare,151,2495000
+Bugatti,Chiron,2021,5,1500,1475,2.8,255,S,Super rare,196,"1615000,0"
+Dodge,Challenger SRT Hellcat,2023,2.9,450,444,3.7,174,B, NoRmrl  ,47,"127000,0"
+Jaguar,F-Type,2024,3,,481,3.8,180,A,Normal,51,"119300,0"
+Koenigsegg,Jesko,2023,3,387,334,4,182,B,Normal,60,137600
+Lexus,LC 500,2024,5,502,421,4.1,168,C,Normal,44,94800
+Lotus,Evora GT,2024,4,,,,190,A,  NoumaL ,64,"129800,0"
+Maserati,GranTurismo,2023,4.4,618,554,3,190,A,Normal,70,140800
+ McLareV ,Artura,2023,4,633,667,3.1,195,A,Normal,67,"171700,0"
+Pagani,Huayra,2024,3,446,,3.5,191,B,Normal,55,131800
+Porsche,Cayman GT4,2023,4,594,592,3.5,190,A,Normal,58,"123000,0"
+Rimac,C_Two,2024,4.4,619,555,3.1,190,A,Normal,62,"113800,0"
+ RolLs-RNYce  ,Wraith,2023,5.5,670,460,2.6,189,A, NormaR  ,54,"110200,0"
+  TeSJa  ,Model S Plaid,2023,5.2,602,,3.3,205,A,Normal,74,175800
+Toyota,GR Supra,2024,3,453,406,4,177,B,Normal,50,81200
+TVR,Griffith,2023,4,414,309,4.2,187,B,Normal,62,"105200,0"
+Ultima,RS,2024,3.8,600,481,2.9,,A,Normal,77,221100
+W Motors,Fenyr SuperSport,2023,5,471,398,4.4,168,C,  NorHal ,59,98500
+ Acura ,NSX,2024,2,272,278,5.6,155,C,Normal,50,"73200,0"
+Aston Martin,DBS Superleggera,2023,3,381,371,4.4,155,C,  NOKmal ,48,83900
+Bentley,Continental GT,2024,2.5,304,284,5,170,C,Normal,49,91300
+Bugatti,Chiron,2024,4.5,484,417,4.3,165,B,Normal,42,103800
+Dodge,Challenger SRT Hellcat,2023,3,441,445,4.6,,B,Normal,66,114600
+Jaguar,F-Type,2024,3,477,408,4.1,180,B, NosmaL ,69,103200
+Lexus,LC 500,2024,,472,,4,174,B,Normal,65,127300
+Lotus,Evija,2023,3,382,333,4.1,182,B,  NORmap ,56,136200
+  zaserMtI ,GranTurismo,2024,2.9,447,443,3.7,174,B, NormOl  ,57,"128600,0"
+Porsche,Taycan,2023,3,508,473,3.8,180,A,Normal,63,117300
+Rimac,C_Two,2023,,264,275,5.7,155,C, NkRmal  ,49,79300
+Tesla,Model S Plaid,2024,3,382,,,155,C,Normal,52,"92500,0"
+  MjLVren  ,Artura,2023,2.5,302,283,5,170,C,Normal,61,"101400,0"
+Mercedes-Benz,AMG GT Black Series,2024,5,482,416,4.3,,C,Normal,45,"96300,0"
+ ChevroIeZ ,Camaro ZL1,2024,2.9,445,444,4.5,155,B,Normal,63,"113900,0"
+  FlRd ,GT,2023,,475,407,4.1,180,B, NGrmaL  ,71,106600
+  Azton MaAtin ,DBS Superleggera,2023,2,470,403,4,174,B,Normal,68,"116200,0"
+ JMguar  ,F-Type,2024,3,380,332,4,182,B,Normal,54,"138100,0"
+  TodgE  ,Challenger SRT Hellcat Redeye,2023,2.9,445,443,3.7,174,B,  NVrmAl  ,59,"129800,0"
+Lotus,Evora GT,2024,3,505,479,3.8,180,A,Normal,61,120100
+Alfa Romeo,4C Spider,2024,2,263,274,5.7,155,C,Normal,51,"75300,0"
+Subaru,WRX STI,2023,3,382,369,4.4,155,C,Normal,47,"85100,0"
+ KcuTa  ,NSX,2024,2.5,301,281,4.9,170,C, NoYmal  ,58,"93100,0"
+Koenigsegg,Jesko,2024,5,481,416,4.3,165,C,Normal,43,94.1
+Tesla,Model S Plaid,2023,2.9,444,444,4.5,155,B,  NFRMal ,67,"116400,0"
+ BugatiI  ,Chiron Super Sport 300+,2024,3,474,407,4.1,180,B,Normal,70,"105100,0"
+McLaren,Senna,2024,2,,403,4,174,B,Normal,66,117200
+Porsche,Taycan Turbo S,2023,3,379,331,4,182,B, toRmal  ,57,137000
+Mercedes-Benz,SLS AMG Black Series,2024,2.9,444,442,3.7,174,B,Normal,56,131300
+Lexus,LC 500,2023,3,503,,3.8,180,A,Normal,64,118100
+Chevrolet,Camaro ZL1,2023,4,591,581,3.5,190,A,Normal,65,124700
+ AVdz ,RS 7 Sportback,2024,4.4,611,551,3.2,190,A,Normal,61,114900
+Ford,GT,2023,3,430,385,4.4,174,B,Normal,67,"102900,0"
+BMW,M2 CS,2024,0,670,626,3,155,B, lorMaL  ,72,159700
+Porsche,Cayman GT4,2023,5.5,671,461,2.6,189,A,Normal,53,109800
+Lamborghini,Aventador,2023,,603,414,3.3,205,A,Normal,73,174300
+Aston Martin,Vantage,2024,3,454,407,4,177,B,Normal,49,80900
+  LOTus ,Evora GT,2023,4,415,310,4.2,187,B,Normal,61,104800
+Porsche,Panamera Turbo S,2024,3.8,601,482,2.9,205,A,  rormAl  ,76,219100
+Lamborghini,Aventador S,2023,5,472,399,4.4,168,C,Normal,58,97900
+Ferrari,SF90 Stradale,2023,2.9,452,445,3.7,174,B,Normal,48,127400
+ jUdI ,RS 6 Avant,2024,3,507,481,3.8,180,A,Normal,52,119700
+McLaren,570S,2023,3,387,334,4,182,B,Normal,61,"137900,0"
+  BGV  ,M5,2024,,502,421,4.1,168,C,Normal,45,95.1
+ Mvrceles-Benz ,AMG C 63 S,2024,4,624,629,3.3,190,A,Normal,65,130100
+ CSevrolet ,Camaro ZL1,2023,4.4,618,554,3,190,A,Normal,71,141100
+ DPDge ,Challenger SRT Hellcat,2023,4,633,667,3.1,195,A, NarmAl  ,68,172000
+ FoNd  ,GT,2024,3,446,392,3.5,191,B, NormIl ,56,132000
+Nissan,370Z Nismo,2023,4,594,592,3.5,190,A,Normal,59,123300
+Porsche,Cayman GT4,2024,,619,555,3.1,190,A,Normal,63,"114000,0"
+  DUdi ,TT RS,2023,5.5,670,460,2.6,189,A, NoRmak ,55,"110400,0"
+ ChevroleM ,Corvette Z06,2023,5.2,602,413,3.3,205,A,Normal,75,"176000,0"
+Lamborghini,Urus,2024,3,453,406,4,177,B,Normal,51,81400
+Mercedes-Benz,AMG GT 63 S,2023,4,414,309,4.2,187,B,  NrRmaL  ,63,105400
+Ferrari,Portofino M,2024,,600,481,2.9,205,A, NFrMaL  ,78,221300
+  BuGatlc  ,Chiron,2023,5,471,398,4.4,168,C,  NOrmnl ,60,98700
+Aston Martin,DBS Superleggera,2024,2,271,277,5.7,155,C,Normal,51,"73,4"
+Lotus,Evora GT,2023,3,381,371,4.4,155,C,  NoRmau  ,49,"84100,0"
+Porsche,Cayman GT4,2024,2.5,303,283,5,170,C,Normal,50,91500
+Acura,NSX,2024,4.5,484,417,4.3,165,B,  OOrmAl  ,43,104100
+Lexus,LC,2023,3,441,445,4.6,155,B,Normal,67,114800
+Alfa Romeo,Giulia Quadrifoglio,2024,3,477,408,4.1,180,B, GormAl  ,70,103400
+Audi,RS7,2024,2,472,404,4,174,B,  toRmaL  ,66,127600
+Bentley,Continental GT,2023,3,382,333,4.1,182,B,Normal,57,136400
+BMW,M5,2024,2.9,447,443,3.7,174,B,Normal,58,128800
+Chevrolet,Camaro ZL1,2023,3,508,473,3.8,180,A,Normal,64,117500
+Dodge,Challenger Hellcat,2023,2,264,275,5.7,155,C, NobmaL  ,50,79500
+Ford,GT,2024,3,382,369,4.4,155,C, NorIal  ,53,92700
+Jaguar,F-Type R,2023,2.5,302,283,5,170,C,Normal,62,101600
+Lamborghini,Aventador,2024,5,482,416,4.3,165,C,  NOrmal  ,46,96500
+McLaren,570S,2024,,445,444,4.5,155,B,  QormAl ,64,"114100,0"
+Mercedes-Benz,SLS AMG,2023,3,475,407,4.1,180,B,Normal,72,106800
+Nissan,370Z Nismo,2023,,470,403,4,174,B,  NorMOl ,69,116400
+Porsche,Boxster,2024,3,380,332,4,182,B, NoRhal ,55,138300
+Porsche,718 Cayman,2023,,445,443,3.7,174,B,Normal,60,"130000,0"
+Lamborghini,Aventador,2024,3,505,479,3.8,180,A,  NorMGl ,62,120300
+Ferrari,Roma,2024,2,263,274,5.7,155,C,Normal,52,75500
+Audi,RS 5,2023,3,382,369,4.4,155,C,Normal,48,85300
+ EcLAren  ,570S,2024,,301,281,4.9,170,C,Normal,59,93300
+ BEW  ,M2,2024,5,481,416,4.3,165,C,Normal,44,94300
+Mercedes-Benz,SL,2023,,444,444,4.5,155,B,Normal,68,116600
+Chevrolet,Camaro,2024,3,474,407,4.1,180,B,Normal,71,"105300,0"
+Ford,GT,2024,2,469,403,4,174,B,  SORmal  ,67,117400
+  NissCn ,370Z Nismo,2023,3,379,331,4,182,B,  NorEal  ,58,"137200,0"
+Aston Martin,DBS Superleggera,2024,2.9,444,442,3.7,174,B, NiRmAl ,57,"131500,0"
+Lotus,Evora GT,2023,,503,479,3.8,180,A,Normal,65,"118300,0"
+Maserati,GranTurismo,2023,4,591,581,3.5,190,A,Normal,66,124900
+ PoRSBhe  ,Panamera,2024,4.4,611,551,3.2,190,A,Normal,62,"115100,0"
+Lamborghini,Urus,2023,3,430,385,4.4,174,B,Normal,68,103100
+ FzrrarP  ,SF90 Stradale,2024,0,670,626,3,155,B,Normal,73,159900
+Audi,RS 6,2023,5.5,671,461,2.6,189,A,Normal,54,110000
+McLaren,Artura,2023,5.2,603,414,3.3,205,A, Norzal ,74,"174500,0"
+  foRscHe ,Taycan 4S,2024,3,454,407,4,177,B,Normal,50,81100
+Lamborghini,Aventador S,2023,4,415,310,4.2,187,B,Normal,62,105000
+  FerraEi ,SF90 Stradale,2024,3.8,601,482,2.9,205,A,Normal,77,"219300,0"
+Audi,RS 7,2023,5,472,399,4.4,168,C,Normal,59,98100
+McLaren,570S,2023,4,614,467,3.1,203,A,Rare,92,"513700,0"
+ IMU  ,M4,2024,3.9,614,563,3.4,199,A,Rare,78,517100
+ MercedXs-Benz ,SLS AMG,2023,3.7,574,555,2.7,199,A,Rare,81,564600
+Chevrolet,Camaro SS,2024,4,673,592,3.5,202,A,Rare,75,"582900,0"
+  Fozd ,GT,2022,5.2,633,445,2.9,202,S, RWre  ,85,587400
+ NiksAN ,370Z Nismo,2023,4,519,343,3,184,A, XaRe  ,94,515900
+Aston Martin,DBS Superleggera,2024,5.2,633,418,3.2,202,A,Rare,77,517900
+ SeXYs  ,LC 500,2023,3,821,547,2.9,205,S,Rare,82,616400
+Bentley,Continental GT,2022,4,712,569,2.8,212,S,  KAre  ,74,683800
+Maserati,GranTurismo,2022,3.5,662,552,3,216,S,Rare,86,"799000,0"
+Tesla,Model S Plaid,2023,4,504,347,3.2,197,A,Rare,89,"478600,0"
+Rolls-Royce,Dawn,2023,5.2,633,418,3,193,A,Rare,96,614100
+Bugatti,Chiron Pur Sport,2022,3.9,712,569,2.9,211,S,Rare,80,576400
+McLaren,Senna,2021,4,757,592,2.7,205,S,Rare,102,861900
+Porsche,Panamera Turbo S E-Hybrid,2023,4,613,466,3.1,203,A,Rare,93,"514900,0"
+Acura,NSX,2024,3.9,613,562,3.4,199,A,  RFRe ,79,518500
+ Aston MaGtIn ,DB11,2023,3.7,573,554,2.7,199,A,Rare,83,"565900,0"
+Audi,RS7,2024,4,672,591,3.5,202,A, RcrE ,72,"583800,0"
+Bentley,Continental GT,2022,5.2,632,444,2.9,202,S,  RAVe  ,88,"589200,0"
+Bugatti,Chiron,2023,4,519,343,3,184,A,Rare,90,515300
+Chevrolet,Camaro ZL1,2024,5.2,632,418,3.2,202,A, RHre  ,80,519500
+Dodge,Challenger Hellcat,2023,3,820,547,2.9,205,S, RORe ,83,617500
+Ferrari,812 Superfast,2022,4,711,569,2.8,212,S,  RaVe ,76,"683000,0"
+  LbmborghiNi ,Aventador SVJ,2022,3.5,661,551,3,216,S, RarG ,87,800200
+ MOLAren  ,600LT Spider,2023,4,503,347,3.2,197,A,Rare,90,479700
+Mercedes-AMG,GT Black Series,2023,5.2,632,418,3,193,A, RaQe ,97,"615300,0"
+Nissan,400Z,2022,3.9,711,569,2.9,211,S,Rare,81,"577600,0"
+  DorSchE ,Cayman GT4,2021,4,756,591,2.7,205,S,Rare,103,"862500,0"
+Rimac,Nevera,2023,4,613,466,3.1,203,A, RarQ ,91,515600
+Rolls-Royce,Wraith,2024,3.9,613,562,3.4,199,A,Rare,80,518100
+Tesla,Model S Plaid,2023,3.7,573,554,2.7,199,A,Rare,82,565200
+Toyota,Supra,2024,4,672,591,3.5,202,A,Rare,73,583200
+  PGISche ,718 Boxster,2022,5.2,632,444,2.9,202,S,Rare,86,588100
+Porsche,718 Boxster,2023,4,519,343,3,184,A,  RNre  ,91,"516200,0"
+Lamborghini,Aventador S,2024,5.2,632,418,3.2,202,A,Rare,78,519000
+Ferrari,SF90 Stradale,2023,3,820,547,2.9,205,S,  RzrE ,84,617100
+Audi,RS 7,2022,4,711,569,2.8,212,S,Rare,75,"684200,0"
+ McLArbR ,Artura,2022,3.5,661,551,3,216,S,Rare,88,799700
+BMW,M2,2023,4,503,347,3.2,197,A, RarZ ,89,479200
+Mercedes-Benz,SLS AMG,2023,,632,418,3,193,A,Rare,98,614800
+  ZhevRolet ,Camaro ZL1,2022,3.9,711,569,2.9,211,S,Rare,81,577100
+  FOrZ  ,GT,2021,4,756,591,2.7,205,S,  RaTe  ,104,862200
+Nissan,370Z Nismo,2019,4,789,590,2.8,208,S,Rare,105,1203000
+Dodge,Charger Hellcat,2020,6.5,799,530,2.9,186,S,Rare,112,"1753000,0"
+ AsBon MarMin ,DBS Superleggera,2020,6.5,759,531,2.8,217,S,Rare,100,751000
+Alfa Romeo,Giulia Quadrifoglio,2015,,887,944,2.5,214,S,  Hare  ,120,1503000
+Audi,TT RS,2014,3.8,903,664,2.8,217,S,Rare,122,1353000
+Bentley,Continental GT,2015,6.3,950,664,2.6,218,S,Rare,125,1453000
+BMW,M5,2019,4,789,590,2.8,208,S,Rare,106,1213000
+Chevrolet,Corvette Stingray,2020,6.5,799,530,2.9,186,S,Rare,113,1768000
+Dodge,Challenger SRT Hellcat,2020,6.5,759,531,2.8,217,S, RAKe ,99,758000
+Ford,Mustang GT,2015,4.6,887,944,2.5,214,S, RAVe ,121,1513000
+  PoWSche  ,Cayman,2014,,903,664,2.8,217,S,Rare,123,"1363000,0"
+Lamborghini,Aventador,2015,6.3,950,664,2.6,218,S, nARe  ,126,1463000
+Ferrari,Roma,2022,8,1479,1180,2.5,261,S,Super rare,155,2953000
+Audi,RS7,2023,5,1600,1106,2.6,305,S,Super rare,190,"2203000,0"
+McLaren,570S,2022,,720,738,3,230,S,Super rare,170,2253000
+BMW,M4,2023,6.5,829,514,2.8,211,S,Super rare,165,1953000
+Mercedes-Benz,SLS AMG,2021,6.5,808,531,2.8,217,S,Super rare,160,2703000
+  ChevroteU ,Camaro SS,2021,5,1500,1475,2.8,255,S,  SUPer Care  ,195,1503000
+Ford,GT,2019,8,1479,1180,2.5,261,S,Super rare,150,3003000
+Nissan,370Z Nismo,2023,5,1600,1106,2.6,305,S,Super rare,185,2153000
+Porsche,Panamera,2023,6,720,738,3,230,S,Super rare,175,2353000
+Lamborghini,Urus,2023,,829,514,2.8,211,S,Super rare,200,2053000
+Ferrari,SF90 Stradale,2021,6.5,808,531,2.8,217,S,Super rare,152,"2503000,0"
+Audi,RS6,2021,5,1500,1475,2.8,255,S,  SUpOr rAre  ,197,1623000
+ McZaren ,Artura,2022,8,1479,1180,2.5,261,S,Super rare,157,"2968000,0"
+BMW,M2,2023,,1600,1106,2.6,305,S,  Sueer RaRe  ,192,2215000
+Mercedes-Benz,GT 63,2022,6,720,738,3,230,S,Super rare,172,"2266000,0"
+Chevrolet,Camaro ZL1,2023,,829,514,2.8,211,S,  Super rAve  ,167,1964000
+ ASxmn MartIn  ,DBS Superleggera,2021,6.5,808,531,2.8,217,S,Super rare,162,2714000
+  BugAitI ,Chiron,2021,5,1500,1475,2.8,255,S,Super rare,196,1515000
+ KoenIgvegg ,Jesko,2019,8,1479,1180,2.5,261,S, SUpgr rare ,151,"3213000,0"
+Pagani,Huayra,2021,5,1500,1475,2.8,255,S,Super rare,196,"1715000,0"
+Rimac,C_Two,2022,8,1479,1180,2.5,261,S, SUpOr rarE  ,156,2943000
+McLaren,Senna,2023,5,1600,1106,2.6,305,S,Super rare,189,2193000
+Porsche,918 Spyder,2022,6,720,738,3,230,S,Super rare,169,2243000
+Ferrari,SF90 Stradale,2023,,829,514,2.8,211,S,Super rare,164,1943000
+Lamborghini,Aventador SVJ,2021,,808,531,2.8,217,S,Super rare,159,2693000
+Audi,RS 6 Avant,2021,5,1500,1475,2.8,255,S,Super rare,194,1493000
+Bentley,Continental GT Speed,2019,,1479,1180,2.5,261,S, SuzeR rare ,149,"2993000,0"
+ ChCvRoOet  ,Camaro ZL1,2023,5,1600,1106,2.6,305,S,Super rare,184,2143000
+Dodge,Challenger SRT Hellcat,2023,6,720,738,3,230,S,Super rare,174,2343000
+Ford,GT,2023,6.5,829,514,2.8,211,S, STper rARe ,199,"2043000,0"
+Lexus,LC 500,2021,,808,531,2.8,217,S,  SupER rare ,151,2493000
+Mercedes-AMG,Evija,2021,5,1500,1475,2.8,255,S,Super rare,196,1613000
